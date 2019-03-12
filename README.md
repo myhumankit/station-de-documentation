@@ -4,7 +4,7 @@
 
 Une boite à lumière, sur une table réglable en hauteur, pour faciliter la documentation des projets du Humanlab.
 
-![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
+![featured_image](images/station-de-documentation.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/station-de-documentation)
