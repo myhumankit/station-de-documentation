@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Projecteur de chantier à LED",
+        "short_description": "Projecteur de chantier à LED d'une puissance de 24W avec pied.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 29.9,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 1,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/projecteur-de-chantier-a-led.jpg",
+                "caption": "Projecteur de chantier à LED"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.bricodepot.fr/rennes/projecteur-de-chantier-led-1-600-lm-1-600-lm/prod45367/",
+                "text": " PROJECTEUR DE CHANTIER LED 1 600 LM 1 600 lm sur Brico dépôt"
+            }
+        ]
+    }
+}

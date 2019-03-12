@@ -1,0 +1,30 @@
+{
+    "component": {
+        "full_name": "Bureau assis/debout SKARSTA",
+        "short_description": "La hauteur du bureau se règle facilement entre 70 et 120 cm par une simple rotation de la poignée manivelle pour une position de travail idéale aussi bien assis que debout.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 199,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 30.67,
+            "unit": "kg"
+        },
+        "brand": "Ikea",
+        "model": "SKARSTA",
+        "featured_image": {
+            "image": {
+                "url": "images/bureau-assis-debout-SKARSTA.jpg",
+                "caption": "Bureau assis/debout SKARSTA"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.ikea.com/fr/fr/catalog/products/S49084965/",
+                "text": "Bureau assis/debout SKARSTA sur Ikea"
+            }
+        ]
+    }
+}

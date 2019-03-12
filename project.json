@@ -31,9 +31,69 @@
         "contributors": [
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
+            }
+        ],
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/station-de-documentation.jpg",
+                    "caption": "Station de documentation"
+                }
+            },
+            {
+                "image": {
+                    "url": "images/station-de-documentation-2.jpg",
+                    "caption": "Station de documentation"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "title": "Monter la table en kit",
+                "duration": 1800,
+                "content": "Afin de rendre accessible cette station de documentation pour les personnes en fauteuil, cette station de documentation doit être réglable en hauteur.\n\nC'est pourquoi nous utilisons un bureau de type *assis/debout* dont la manivelle, placée à l'avant, permet de régler la hauteur de la zone de travail de 70 à 120 centimètres du sol.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "bureau-assis-debout-SKARSTA",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Assembler la boîte à lumière",
+                "duration": 300,
+                "content": "Les trois plaques sont simplement reliées par des morceaux de scotch dans les angles.\n\nLa feuille de papier est fixée sur le fond à l'aide de pinces.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "plaque-de-polypropylene-alveolaire",
+                            "quantity": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ajout des projecteurs",
+                "duration": 300,
+                "content": "Les projecteurs de chantier à LED sont disposés sur la table de part et d'autre de la boîte à lumière.\nReliés à la multiprise dont l'interrupteur est placé au bord de la table, ces projecteurs diffusent une lumière uniforme sur l'objet à photographier.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "projecteur-de-chantier-a-led",
+                            "quantity": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Utilisation",
+                "duration": 300,
+                "content": ""
             }
         ]
     }

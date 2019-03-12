@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Plaque de polypropylène alvéolaire 50 x 64 x 0,3 cm",
+        "short_description": "Le polypropylène alvéolaire est une plaque de polypropylène extrudée avec des alvéoles longitudinales. Le traitement invisible permet l’accroche des encres adaptées au polypropylène. C’est un produit léger, solide, résistant à l’impact, hygiénique et résistant à l’eau.\nCes plaques de polypropylène alvéolaire, très polyvalentes, sont faciles à adapter au besoin particulier du secteur des Arts graphiques. C’est un matériau qui se plie à toute forme d’expression (découpage, façonnage, soudage, perforation, empilage, collage et agrafage). Il est utilisé pour fabriquer des mobiliers éphémères ou durables, des maquettes, des décors…\n\nDimensions : 50 x 64 x 0,3 cm.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 5.15,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 0.18,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/plaque-de-polypropylene-alveolaire.jpg",
+                "caption": "Plaque de polypropylène alvéolaire"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.rougier-ple.fr/plaque-de-polystyrene-extrude-550-50-64-0-3-cm.r.html",
+                "text": "Plaque de polypropylène extrudé 550 g/m² 50 x 64 x 0,3 cm chez Rougier & Plé"
+            }
+        ]
+    }
+}
