@@ -62,6 +62,14 @@
                             "quantity": 1
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/bureau-assis-debout-SKARSTA-manivelle.jpg",
+                            "caption": "Détail de la manivelle du bureau assis/debout SKARSTA"
+                        }
+                    }
                 ]
             },
             {
