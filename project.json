@@ -126,6 +126,20 @@
                             "quantity": 2
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/disposition-des-projecteurs.jpg",
+                            "caption": "Disposition des projecteurs"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/bouton-accessible.jpg",
+                            "caption": "Bouton accessible"
+                        }
+                    }
                 ]
             },
             {
