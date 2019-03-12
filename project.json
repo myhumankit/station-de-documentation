@@ -82,6 +82,22 @@
                             "slug": "plaque-de-polypropylene-alveolaire",
                             "quantity": 3
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "ruban-adhesif-de-masquage",
+                            "quantity": 0.4,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "pince-bulldog-50mm",
+                            "quantity": 2,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-components"
+                        }
                     }
                 ]
             },
