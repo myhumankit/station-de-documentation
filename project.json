@@ -1,0 +1,40 @@
+{
+    "project": {
+        "full_name": "Station de documentation",
+        "slug": "station-de-documentation",
+        "short_description": "Une boite à lumière, sur une table réglable en hauteur, pour faciliter la documentation des projets du Humanlab.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Une boite à lumière, sur une table réglable en hauteur, pour faciliter la documentation des projets du Humanlab.",
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/station-de-documentation/",
+                "text": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Station_de_documentation",
+                "text": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            {
+                "url": "https://framateam.org/myhumankit/channels/amenagement-du-lab",
+                "text": "canal de discussion sur Framateam",
+                "fa5_icon": "fas fa-comments"
+            },
+            {
+                "url": "https://github.com/myhumankit/station-de-documentation",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "github_username": "jlebunetel",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
