@@ -99,6 +99,20 @@
                             "github_repository": "myworkshop-humanlab-components"
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/assemblage-des-panneaux.jpg",
+                            "caption": "Assemblage des panneaux"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/fixation-du-fond.jpg",
+                            "caption": "Fixation du fond"
+                        }
+                    }
                 ]
             },
             {
