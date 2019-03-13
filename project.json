@@ -54,7 +54,7 @@
             {
                 "title": "Monter la table en kit",
                 "duration": 1800,
-                "content": "Afin de rendre accessible cette station de documentation pour les personnes en fauteuil, cette station de documentation doit être réglable en hauteur.\n\nC'est pourquoi nous utilisons un bureau de type *assis/debout* dont la manivelle, placée à l'avant, permet de régler la hauteur de la zone de travail de 70 à 120 centimètres du sol.",
+                "content": "Afin de la rendre accessible pour les personnes en fauteuil, cette station de documentation doit être réglable en hauteur.\n\nC'est pourquoi nous utilisons un bureau de type *assis/debout* dont la manivelle, placée à l'avant, permet de régler la hauteur de la zone de travail de 70 à 120 centimètres du sol.",
                 "inputs": [
                     {
                         "component": {
@@ -75,7 +75,7 @@
             {
                 "title": "Assembler la boîte à lumière",
                 "duration": 300,
-                "content": "Les trois plaques sont simplement reliées par des morceaux de ruban adhésif dans les angles.\n\nLa feuille de papier est fixée sur le fond à l'aide de pinces.",
+                "content": "Les trois plaques sont simplement reliées par des morceaux de ruban adhésif dans les angles.\n\nLa feuille de papier, découpée à la bonne largeur, est fixée sur le fond à l'aide de pinces.",
                 "inputs": [
                     {
                         "component": {
@@ -97,6 +97,19 @@
                             "quantity": 2,
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-humanlab-components"
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "feuille-de-papier-a-grain-fin-180-75x110",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "ciseaux",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
                         }
                     }
                 ],
@@ -145,7 +158,21 @@
             {
                 "title": "Utilisation",
                 "duration": 300,
-                "content": ""
+                "content": "Placer l'objet à photographier au centre de la table, allumer les projecteurs, et c'est parti !\n\nPour un fond uniforme, augmenter légèrement la luminosité sur l'appareil photo, sans trop saturer l'objet à photographier.",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/exemple-1.jpg",
+                            "caption": "Exemple de photo studio : le bouton train"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/exemple-2.jpg",
+                            "caption": "Exemple de photo studio : le viaduc de Millau"
+                        }
+                    }
+                ]
             }
         ]
     }

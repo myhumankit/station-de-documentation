@@ -1,0 +1,28 @@
+{
+    "component": {
+        "full_name": "Feuille de papier à grain fin 180 g/m² - 75 x 110 cm",
+        "short_description": "Feuille de papier à grain fin 180 g/m² - 75 x 110 cm",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 2.8,
+            "currency": "EUR"
+        },
+        "mass": {
+            "value": 0.1485,
+            "unit": "kg"
+        },
+        "featured_image": {
+            "image": {
+                "url": "images/feuille-de-papier-a-grain-fin-180-75x110.jpg",
+                "caption": "Feuille de papier à grain fin 180 g/m² - 75 x 110 cm"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.rougier-ple.fr/canson-grain-grain-fin-180g-feuille.r.html",
+                "text": "Canson C à GRAIN, Grain Fin 180g/m² chez Rougier&Plé"
+            }
+        ]
+    }
+}
