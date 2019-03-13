@@ -1,6 +1,6 @@
 # Station de documentation
 ![proto](https://img.shields.io/badge/proto-réalisé-success.svg "proto")
-![doc](https://img.shields.io/badge/doc-réalisée-success.svg "doc")
+[![doc](https://img.shields.io/badge/doc-réalisée-success.svg "doc")](https://docs.humanlab.me/myhumankit/station-de-documentation)
 
 Une boite à lumière, sur une table réglable en hauteur, pour faciliter la documentation des projets du Humanlab.
 
